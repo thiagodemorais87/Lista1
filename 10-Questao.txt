@@ -1,0 +1,8 @@
+L = input("Digite uma letra (F/M): ")
+L = L.upper()
+if L == "F":
+    print("F - Feminino")
+elif L == "M":
+    print("M - Masculino")
+else:
+    print("Sexo Inválido")

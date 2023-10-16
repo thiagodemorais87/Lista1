@@ -1,0 +1,5 @@
+L = float(input("informe o lado do quadrado:"))
+A = L ** 2
+Dobro_da_area = 2 * A
+print(f"A area do quadrado é {A}.")
+print(f"O dobro da area do quadrado é{Dobro_da_area}")

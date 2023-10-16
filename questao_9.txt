@@ -1,0 +1,13 @@
+valor = float(input("Por favor, digite um valor: "))
+
+
+if valor > 0:
+    print("Ótimo! O valor que você digitou é positivo.")
+elif valor < 0:
+    print("Ah, o valor que você digitou é negativo.")
+else:
+    print("Você digitou o valor zero.")
+
+
+
+
